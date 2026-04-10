@@ -44,7 +44,6 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/State_Management-Zustand-orange?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Core_CS-DSA_|_OOP_|_OS-blue?style=flat-square" />
 </div>
 
@@ -53,9 +52,9 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garg-sushant&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Github Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=garg-sushant&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Github Stats" height="180em" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garg-sushant&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garg-sushant&layout=compact&theme=dracula&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180em" />
 </div>
 
 <br/>
