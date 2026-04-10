@@ -90,6 +90,3 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Quote" />
-</div>
