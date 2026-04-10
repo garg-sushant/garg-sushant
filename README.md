@@ -52,9 +52,9 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garg-sushant&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Github Stats" height="180em" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=garg-sushant&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Github Stats" height="180em" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garg-sushant&layout=compact&theme=dracula&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=garg-sushant&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" height="180em" />
 </div>
 
 <br/>
@@ -62,7 +62,7 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=garg-sushant&theme=dracula" alt="Github Streak" />
   &nbsp;&nbsp;
-  <img src="https://leetcode-stats-six.vercel.app/api?username=sushant123s-_&theme=dark" alt="LeetCode Stats" height="180em" />
+  <img src="https://leetcard.jacoblin.cool/sushant123s-_?theme=dark&font=Recursive" alt="LeetCode Stats" height="180em" />
 </div>
 
 <hr />
