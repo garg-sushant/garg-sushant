@@ -25,6 +25,7 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 - 💬 Ask me about **React, TypeScript, Node.js, and Competitive Programming**.
 - 📫 How to reach me: **[sgarg9031@gmail.com](mailto:sgarg9031@gmail.com)**
 - 🏆 LeetCode Profile: **[sushant123s-_](https://leetcode.com/u/sushant123s-_/)**
+ - 🤖 Exploring and building in **Agentic AI** — focusing on **RAG**, **MCP**, **FastAPI**, **LangChain**, and **LangGraph**.
 
 <hr />
 
@@ -37,11 +38,70 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
   <!-- Development -->
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,tailwind" alt="Development" />
   <br/><br/>
-  <!-- Tools & ML -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,py,scikitlearn" alt="Tools" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,py" alt="Tools" />
 </div>
 
 <br/>
+
+<!-- Agent & Platform Tools -->
+<div align="center">
+  <a href="https://huggingface.co" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FF6E00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  </a>
+  &nbsp;
+  <a href="https://langchain.com" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-2563EB?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  </a>
+  &nbsp;
+  <a href="https://openai.com" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  </a>
+  &nbsp;
+  <a href="https://www.pinecone.io" target="_blank">
+    <img src="https://img.shields.io/badge/Pinecone-7A59FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  </a>
+  &nbsp;
+  <a href="https://replicate.com" target="_blank">
+    <img src="https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white" alt="Replicate" />
+  </a>
+  &nbsp;
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://contrib.rocks/image?repo=garg-sushant/garg-sushant" alt="Contribution Snake" />
+</div>
+
+<br/>
+
+<!-- AI & Agent Tools -->
+<div align="center">
+  <a href="#" title="RAG (Retrieval-Augmented Generation)">
+    <img src="https://img.shields.io/badge/RAG-Retrieval-6EE7B7?style=for-the-badge" alt="RAG" />
+  </a>
+  &nbsp;
+  <a href="#" title="MCP (Model Context Protocol)">
+    <img src="https://img.shields.io/badge/MCP-Protocol-60A5FA?style=for-the-badge" alt="MCP" />
+  </a>
+  &nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  </a>
+  &nbsp;
+  <a href="https://langchain.com" target="_blank" title="LangChain">
+    <img src="https://img.shields.io/badge/LangChain-2563EB?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  </a>
+  &nbsp;
+  <a href="#" title="LangGraph">
+    <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge" alt="LangGraph" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Core_CS-DSA_|_OOP_|_OS-blue?style=flat-square" />
