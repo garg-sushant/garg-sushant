@@ -62,7 +62,7 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
   <img src="https://contrib.rocks/image?repo=garg-sushant/garg-sushant" alt="Contribution Snake" />
 </div>
 
-<br/>
+<hr />
 
 <!-- AI & Agent Tools -->
 <div align="center">
@@ -89,20 +89,6 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 
 <div align="center">
   <img src="https://img.shields.io/badge/Core_CS-DSA_|_OOP_|_OS-blue?style=flat-square" />
-</div>
-
-<hr />
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garg-sushant&theme=dracula" alt="Github Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sushant123s-_?theme=dark&font=Recursive" alt="LeetCode Stats" height="180em" />
 </div>
 
 <hr />
