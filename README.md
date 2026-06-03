@@ -7,7 +7,7 @@
   
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=C%2B%2B+Developer;MERN+Stack+Specialist;DSA+Problem+Solver;Next.js+Architect" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=C%2B%2B+Developer;MERN+Stack+Specialist;DSA+Problem+Solver;Next.js+Architect; Agentic+Ai" alt="Typing SVG" />
     </a>
   </h3>
 
@@ -57,9 +57,9 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 
 <br/>
 
-<!-- GitHub Activity Graph -->
+<!-- Contribution Snake -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garg-sushant&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://contrib.rocks/image?repo=garg-sushant/garg-sushant" alt="Contribution Snake" />
 </div>
 
 <br/>
