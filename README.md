@@ -57,9 +57,9 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 
 <br/>
 
-<!-- Contribution Snake -->
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=garg-sushant" alt="Contribution Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garg-sushant&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
