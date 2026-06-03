@@ -59,7 +59,7 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 
 <!-- Contribution Snake -->
 <div align="center">
-  <img src="https://contrib.rocks/image?repo=garg-sushant/garg-sushant" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/garg-sushant/garg-sushant/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </div>
 
 <hr />
@@ -114,4 +114,3 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 </div>
 
 <br/>
-
