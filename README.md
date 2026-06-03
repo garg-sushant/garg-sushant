@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/garg-sushant/garg-sushant/main/sushant_garg_banner.png" alt="Sushant Garg Banner" width="100%">
+  <img src="./sushant_garg_banner.png" alt="Sushant Garg Banner" width="100%">
   
   <br/>
   
@@ -53,29 +53,13 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
   <a href="https://langchain.com" target="_blank">
     <img src="https://img.shields.io/badge/LangChain-2563EB?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   </a>
-  &nbsp;
-  <a href="https://openai.com" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  </a>
-  &nbsp;
-  <a href="https://www.pinecone.io" target="_blank">
-    <img src="https://img.shields.io/badge/Pinecone-7A59FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-  </a>
-  &nbsp;
-  <a href="https://replicate.com" target="_blank">
-    <img src="https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white" alt="Replicate" />
-  </a>
-  &nbsp;
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
 </div>
 
 <br/>
 
 <!-- Contribution Snake -->
 <div align="center">
-  <img src="https://contrib.rocks/image?repo=garg-sushant/garg-sushant" alt="Contribution Snake" />
+  <img src="https://github-contribution-stats.vercel.app/api?username=garg-sushant" alt="Contribution Stats" />
 </div>
 
 <br/>
